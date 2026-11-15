@@ -6,7 +6,6 @@ listed_on: 2024-04-22
 updated_on: 2025-06-09
 maintainer: Ronald Mendoza
 license: Apache-2.0
-link: https://github.com/komal74784391-netizen/otcx4565-catalogue-site/tree/main/companions/parquet-nexus
 ---
 
 Parquet Nexus maps nested schemas between warehouses and local lakehouses while keeping column statistics intact.
