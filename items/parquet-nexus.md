@@ -10,4 +10,4 @@ license: Apache-2.0
 
 Parquet Nexus maps nested schemas between warehouses and local lakehouses while keeping column statistics intact.
 
-If the project ships, the companion repository link appears in the front matter so readers can jump straight to the code.
+If the project ships, the companion resource link appears in the front matter so readers can jump straight to the code.

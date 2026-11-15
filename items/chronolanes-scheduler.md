@@ -10,4 +10,4 @@ license: Apache-2.0
 
 ChronoLanes turns cron-style jobs into a dependency-aware schedule and keeps every run reproducible. It is the catalogue's reference project for batch orchestration.
 
-If the project ships, the companion repository link appears in the front matter so readers can jump straight to the code.
+If the project ships, the companion resource link appears in the front matter so readers can jump straight to the code.

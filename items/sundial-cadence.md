@@ -10,4 +10,4 @@ license: Apache-2.0
 
 Sundial Cadence samples job telemetry on a fixed cadence and exposes it through a small read-only HTTP API.
 
-If the project ships, the companion repository link appears in the front matter so readers can jump straight to the code.
+If the project ships, the companion resource link appears in the front matter so readers can jump straight to the code.

@@ -11,4 +11,4 @@ link: https://github.com/arbor-weave/loomwire-gateway
 
 Loomwire Gateway routes messages between internal services with pluggable filters and per-tenant quotas.
 
-If the project ships, the companion repository link appears in the front matter so readers can jump straight to the code.
+If the project ships, the companion resource link appears in the front matter so readers can jump straight to the code.

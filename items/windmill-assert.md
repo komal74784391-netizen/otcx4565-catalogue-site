@@ -10,4 +10,4 @@ license: Apache-2.0
 
 Windmill Assert is planned as a pytest-friendly matcher library for streaming pipeline outputs.
 
-If the project ships, the companion repository link appears in the front matter so readers can jump straight to the code.
+If the project ships, the companion resource link appears in the front matter so readers can jump straight to the code.

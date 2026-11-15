@@ -10,4 +10,4 @@ license: Apache-2.0
 
 Tessera Schema documents how data products declare contracts; the reference implementation is still maintained privately by the author.
 
-If the project ships, the companion repository link appears in the front matter so readers can jump straight to the code.
+If the project ships, the companion resource link appears in the front matter so readers can jump straight to the code.

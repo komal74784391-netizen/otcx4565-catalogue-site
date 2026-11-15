@@ -10,4 +10,4 @@ license: Apache-2.0
 
 Gravel Baggage stores build artifacts by content hash and serves them back to CI workers. The entry is held back until the launch announcement.
 
-If the project ships, the companion repository link appears in the front matter so readers can jump straight to the code.
+If the project ships, the companion resource link appears in the front matter so readers can jump straight to the code.

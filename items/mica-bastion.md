@@ -11,4 +11,4 @@ link: https://github.com/legacy-tools/mica-bastion
 
 Mica Bastion was retired from the catalogue after the team moved to a managed gateway. The draft entry is kept for historical reference.
 
-If the project ships, the companion repository link appears in the front matter so readers can jump straight to the code.
+If the project ships, the companion resource link appears in the front matter so readers can jump straight to the code.
