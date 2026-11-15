@@ -6,7 +6,6 @@ listed_on: 2024-03-14
 updated_on: 2025-05-02
 maintainer: Ronald Mendoza
 license: Apache-2.0
-link: https://github.com/komal74784391-netizen/otcx4565-catalogue-site/tree/main/companions/chronolanes-scheduler
 ---
 
 ChronoLanes turns cron-style jobs into a dependency-aware schedule and keeps every run reproducible. It is the catalogue's reference project for batch orchestration.
